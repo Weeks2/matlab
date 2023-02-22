@@ -23,7 +23,6 @@ function f1()
 for i = 1:10
     disp(i);
 end
-
 end
 
 function f2()
@@ -32,6 +31,5 @@ y = input('el valor de y');
 if x > y
     disp('x es mayor que y');
 end
-
 end
 <code>
