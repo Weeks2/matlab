@@ -1,5 +1,10 @@
-function [resultado] = sumaAB()
+function [resultado] = sumar(a,b)
+    resultado = a + b
+end 
+
+function  main()
     a = input("Cual es el valor de a:")
     b = input("Cual es el valor de b:")
-    resultado = a + b;
+    resultado = sumar(a,b);
 end
+
