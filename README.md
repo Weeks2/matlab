@@ -6,6 +6,7 @@
 #desde la ventana de comandos o desde otros scripts o funciones. 
 #Las funciones adicionales se pueden llamar desde la función principal, pero no se pueden llamar directamente.
 
+<code>
 
 function suma = sumar(desde, hasta)
 f1()
@@ -33,3 +34,4 @@ if x > y
 end
 
 end
+<code>
