@@ -1,5 +1,5 @@
-# matlab
-#Un archivo de MATLAB puede contener múltiples funciones, aunque se recomienda que cada función se defina en su propio archivo para facilitar
+# matlab https://matlab.mathworks.com/
+Un archivo de MATLAB puede contener múltiples funciones, aunque se recomienda que cada función se defina en su propio archivo para facilitar
 #la organización y la reutilización de código.
 #Cuando defines varias funciones en un solo archivo, 
 #debes tener en cuenta que solo la función con el mismo nombre que el archivo se puede llamar directamente
